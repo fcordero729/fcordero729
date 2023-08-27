@@ -1,8 +1,7 @@
 <h1>Hi, I'm Frank! <br/><a href="[[https://www.linkedin.com/in/Fra](https://www.linkedin.com/in/francisco-cordero-1924b317/)/](https://www.linkedin.com/in/francisco-cordero-1924b317/)">Cybersecurity Professional-IT Professional</a>
 
 <h2>👨‍💻 Cloud/Cyber Security Projects:</h2>
-
-
+  - [Josh Madakors Leveld Careers Cyber Security Masterclas](https://github.com/fcordero729/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
