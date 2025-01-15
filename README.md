@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-  - **[Josh Madakors Leveld Careers Cyber Security Masterclas](https://github.com/fcordero729/Azure-SOC)**
+  - **[Josh Madakors Leveld Careers Cyber Security Masterclass](https://github.com/fcordero729/Azure-SOC)**
   
   - **[Vulnerability Management Projects](https://github.com/fcordero729/Vulnerability-Management-Program/blob/main/README.md)**
 
