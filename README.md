@@ -6,6 +6,8 @@
   
   - **[Vulnerability Management Projects](https://github.com/fcordero729/Vulnerability-Management-Program/blob/main/README.md)**
 
+  - Powershell Masterclass Scripts: [https://github.com/fcordero729/Powershell_Masterclass]
+
 <h2> 🤳 Connect with me:</h2>
 
 
